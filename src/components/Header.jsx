@@ -1,4 +1,3 @@
-import { getAuth } from "firebase/auth";
 import { NavLink } from "react-router-dom";
 
 const Header = () => {
